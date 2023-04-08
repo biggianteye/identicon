@@ -35,3 +35,4 @@ The general approach will be:
 ## Languages
 
 - [Elixir](elixir)
+- [Go](go)
