@@ -13,7 +13,7 @@ import (
 const (
 	ChunkSize = 3
 	GridSize  = 5
-	CellWidth = 100
+	CellWidth = 50
 )
 
 type Identicon struct {
